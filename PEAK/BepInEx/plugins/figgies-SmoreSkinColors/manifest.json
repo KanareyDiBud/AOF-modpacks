@@ -1,0 +1,12 @@
+{
+    "namespace": "figgies",
+    "name": "SmoreSkinColors",
+    "description": "Hungry for s'more? Adds 27 new skin colors!",
+    "version_number": "1.1.0",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403",
+        "Radsi2-PassporPagination-1.0.0"
+    ],
+    "website_url": "https://github.com/figgies",
+    "FullName": "figgies-SmoreSkinColors"
+}

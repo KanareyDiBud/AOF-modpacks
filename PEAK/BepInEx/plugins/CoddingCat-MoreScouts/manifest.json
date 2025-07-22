@@ -1,0 +1,9 @@
+﻿{
+  "name": "MoreScouts",
+  "description": "The mod increases the players cap to 20 with NO LAGS (for real this time)",
+  "version_number": "0.3.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": ""
+}

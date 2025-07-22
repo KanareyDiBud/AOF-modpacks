@@ -1,0 +1,11 @@
+{
+  "namespace": "Lokno",
+  "name": "PEAKSleepTalk",
+  "description": "Allow passed out players to talk at a reduced volume after a short period.",
+  "version_number": "0.2.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "https://github.com/Lokno/PEAKSleepTalk",
+  "FullName": "Lokno-PEAKSleepTalk"
+}

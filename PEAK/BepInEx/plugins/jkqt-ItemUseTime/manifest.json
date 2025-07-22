@@ -1,0 +1,11 @@
+{
+  "namespace": "jkqt",
+  "name": "ItemUseTime",
+  "description": "Displays the remaining time for the progress circle when using an item or interacting with an object.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "https://github.com/jkqt/ItemUseTime",
+  "FullName": "jkqt-ItemUseTime"
+}

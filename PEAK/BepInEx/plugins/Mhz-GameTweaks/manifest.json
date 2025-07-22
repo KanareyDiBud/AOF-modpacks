@@ -1,0 +1,9 @@
+﻿{
+  "name": "GameTweaks",
+  "version_number": "1.0.4",
+  "website_url": "https://github.com/Masaicker/PeakGameTweaks",
+  "description": "Quality-of-life tweaks for better gameplay. 找点痛点，提升体验。",
+  "dependencies": [
+  "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ]
+}

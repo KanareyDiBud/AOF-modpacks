@@ -1,0 +1,9 @@
+{
+	"name": "PeakStats",
+	"version_number": "0.2.0",
+	"description": "See your teammates' stamina bars when in proximity! You can also see how long and far you've been climbing",
+	"website_url": "",
+	"dependencies": [
+		"BepInEx-BepInExPack_PEAK-5.4.2403"
+	]
+}

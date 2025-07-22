@@ -1,0 +1,9 @@
+{
+    "name": "SkinColorSliders",
+    "version_number": "1.3.0",
+    "website_url": "",
+    "description": "Lets you customize your head/body/blush colors with rgb sliders and syncs up with all players.",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}

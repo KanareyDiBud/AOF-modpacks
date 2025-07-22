@@ -1,0 +1,11 @@
+{
+  "namespace": "boxofbiscuits97",
+  "name": "PushMod",
+  "description": "Push your friends with the F key!",
+  "version_number": "0.5.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "",
+  "FullName": "boxofbiscuits97-PushMod"
+}
