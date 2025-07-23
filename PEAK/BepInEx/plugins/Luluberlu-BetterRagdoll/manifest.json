@@ -1,9 +1,0 @@
-﻿{
-  "name": "BetterRagdoll",
-  "description": "(UPDATED FOR 1.7) Press X on your keyboard (or X on Controller) to ragdoll but not just any ragdoll! You'll now get a little push in the direction you're moving, making it feel much more dynamic and fun!",
-  "version_number": "1.0.6",
-  "dependencies": [
-    "BepInEx-BepInExPack_PEAK-5.4.2403"
-  ],
-  "website_url": ""
-}

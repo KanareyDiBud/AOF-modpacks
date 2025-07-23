@@ -1,9 +1,0 @@
-{
-    "name": "PEAK_Voice_Volume_Saver",
-    "version_number": "0.2.0",
-    "website_url": "https://github.com/glarmer/PEAK-Voice-Volume-Saver",
-    "description": "Saves the voice volumes you set for friends! (No more resetting their volume every game!)",
-    "dependencies": [
-        "BepInEx-BepInExPack_PEAK-5.4.2403"
-    ]
-}
