@@ -1,3 +1,3 @@
-Game version: 1.7.a
-Modpack version: 1.1
-Modpack date: 18.07.25
+Версия игры: 1.7.a
+Версия сборки: 1.1
+Дата сборки: 18.07.25
